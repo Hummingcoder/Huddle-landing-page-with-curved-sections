@@ -38,8 +38,11 @@ p {
 }
 button {
   font-weight: 600;
+  cursor: pointer;
 }
-
+button:hover {
+  box-shadow: 0 0 10px var(--light-pink);
+}
 h1,
 h2 {
   font-weight: 700;
@@ -269,7 +272,7 @@ footer .bg-inn {
 .bg-inn section input {
   width: 100%;
   outline: none;
-  padding: 14px 10px;
+  padding: 14px 16px;
   border-radius: 10px;
   border: none;
 }
