@@ -17,5 +17,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/hu...](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-solution-ZeIIz7AwJF)
+- Live Site URL: [https://hummingcoder.github.io/Hud...](https://hummingcoder.github.io/Huddle-landing-page-with-curved-sections/)
